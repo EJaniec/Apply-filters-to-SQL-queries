@@ -12,4 +12,4 @@ In this lab, I, as a security analyst, focused on honing data analysis skills, r
 
 <h2>Program walk-through:</h2>
 
-[ Apply-filters-to-SQL-queries ](https://github.com/EJaniec/File-permissions-in-Linux-/blob/main/File-permissions-in-Linux.pdf)
+[ Apply-filters-to-SQL-queries ]([https://github.com/EJaniec/File-permissions-in-Linux-/blob/main/File-permissions-in-Linux.pdf](https://github.com/EJaniec/Apply-filters-to-SQL-queries/blob/main/Apply-filters-to-SQL-queries.pdf)https://github.com/EJaniec/Apply-filters-to-SQL-queries/blob/main/Apply-filters-to-SQL-queries.pdf)
